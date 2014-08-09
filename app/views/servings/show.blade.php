@@ -1,0 +1,1 @@
+/Users/Alex/Dropbox/Sites/Diet/app/views/servings/show.blade.php
